@@ -1,12 +1,12 @@
-# 🏛️ uz-developers
+# uz-developers
 
-**uz-developers** é uma organização criada por mim, dedicada à preservação, organização e partilha de repositórios de projetos académicos desenvolvidos no âmbito das disciplinas do curso de Engenharia Informática.
+**uz-developers** é uma organização criada por estudantes da uz, dedicada à preservação, organização e partilha de repositórios de projetos académicos desenvolvidos no âmbito das disciplinas do curso de Engenharia Informática.
 
-## 🎯 Objectivo
+## Objectivo
 
 Armazenar e organizar os projetos desenvolvidos por estudantes em diferentes disciplinas, especialmente os **projetos finais de disciplina**, promovendo o acesso fácil ao código, documentação e histórico dos trabalhos realizados.
 
-## 📚 Áreas de Abrangência
+## Áreas de Abrangência
 
 Os projetos armazenados nesta organização abrangem diversas áreas, com destaque para:
 
@@ -14,7 +14,7 @@ Os projetos armazenados nesta organização abrangem diversas áreas, com destaq
 * **Sistemas de Informação**
 * **Inteligência Artificial**
 
-## 🧱 Estrutura dos Repositórios
+## Estrutura dos Repositórios
 
 Cada repositório deve conter:
 
@@ -24,11 +24,11 @@ Cada repositório deve conter:
 * Documentação complementar (PDF, imagens, relatórios, etc.)
 * Instruções para execução ou deployment
 
-## 🧑‍💻 Exemplos de Projetos
+## Exemplos de Projetos
 
 * `sifo-rh-api`: api para o sistema de recursos humanos
 * `poo-sistema-requerimento`: Sistema de gestão de requerimentos
 
-## 📌 Nota Final
+## Nota Final
 
 A organização uz-developers representa um esforço colaborativo para valorizar e tornar visíveis os trabalhos, incentivando boas práticas de desenvolvimento, versionamento e documentação de software.
